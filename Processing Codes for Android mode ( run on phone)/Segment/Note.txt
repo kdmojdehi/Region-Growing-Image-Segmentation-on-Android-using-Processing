@@ -1,0 +1,1 @@
+Only runs in android mode, ratherly run it on an actual phone.
